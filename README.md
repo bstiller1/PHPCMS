@@ -2,13 +2,14 @@
 
 ## Files
 
-`admin.php` - Adding content <br>
-~~`db.php`~~ - _\*hidden_ Database Connection<br>
-`delete.php` - Removing Content<br>
-`edit.php` - Editing Content<br>
-`index.php` - Home Page<br>
-~~`info.php`~~ - _\*hidden_ PHP Diagnostics<br>
-`login.php` - Admin Login<br>
-`logout.php` - Admin Logout<br>
-`manage.php` - Editing and Deletion<br>
-~~`setup.php`~~ - _\*hidden_ Hashed Login<br>
+`admin.php` - Adding content :computer:<br>
+~~`db.php`~~ - _\*hidden_ Database Connection :blue*book:<br>
+`delete.php` - Removing Content :recycle:<br>
+`edit.php` - Editing Content :pencil2:<br>
+`index.php` - Home Page :house: <br>
+~~`info.php`~~ - *\*hidden* PHP Diagnostics :question:<br>
+`login.php` - Admin Login :electric_plug:<br>
+`logout.php` - Admin Logout :electric_plug\*<br>
+`manage.php` - Editing and Deletion :nut_and_bolt:<br>
+~~`setup.php`~~ - *\*hidden\_ Hashed Login :gear:<br>
+`/uploads/` - Image Upload Folder :camera:
