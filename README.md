@@ -9,7 +9,7 @@
 `index.php` - Home Page :house: <br>
 ~~`info.php`~~ - *\*hidden* PHP Diagnostics :question:<br>
 `login.php` - Admin Login :electric_plug:<br>
-`logout.php` - Admin Logout :electric_plug\*<br>
+`logout.php` - Admin Logout :electric_plug:<br>
 `manage.php` - Editing and Deletion :nut_and_bolt:<br>
 ~~`setup.php`~~ - *\*hidden\_ Hashed Login :gear:<br>
 `/uploads/` - Image Upload Folder :camera:
